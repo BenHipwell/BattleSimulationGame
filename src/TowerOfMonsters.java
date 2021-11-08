@@ -6,8 +6,6 @@ import java.util.ArrayList;
 
 public class TowerOfMonsters {
 
-    //creates a buffered reader to be able to read the lines one by one from the text files
-//    BufferedReader monsterReader, guildReader;
     //an arraylist to store all of the monster teams, which are each line of the text file
     ArrayList<MonsterTeam> monsterTeams;
     ArrayList<Guild> studentGuilds;
